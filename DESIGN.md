@@ -117,3 +117,5 @@ A compact highlighted block directly below the opening states “About $354,000 
 The Share icon and label remain fixed at the lower-right viewport edge on both the concise homepage and full report. Use a high-contrast 48px minimum control, mobile safe-area spacing, and a copy fallback positioned above it. Footer clearance keeps end-of-page content reachable. Sharing still requires an explicit click.
 
 2025 SUPER LOSS callout — 18 October 2026: place “5 of 9 games were SUPER LOSSES” immediately below the opening, above the cost estimate and comparisons. Pair with the separately dated 2026 result (0 of 6 through October 17) and a six-game boxscore audit. Preserve the Chicago 9-to-1 spotlight and persistent Share control.
+
+User correction: keep the 2025 SUPER LOSS headline in the lower SUPER LOSSES section after the victory graph. Remove current-season SUPER LOSS mentions and table from the page.

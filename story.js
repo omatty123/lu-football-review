@@ -15,6 +15,3 @@ $('#share-button').addEventListener('click',async()=>{
 if (['#conference','#key-metrics'].includes(location.hash)) document.querySelector('#conference-history').scrollIntoView();
 if (['#seasons','#trend','#history'].includes(location.hash)) location.replace('full-report.html'+location.hash);
 
-// Open the current-season evidence when its headline link is followed.
-document.querySelector('a[href="#super-2026"]')?.addEventListener('click',()=>{document.querySelector('#super-2026').open=true;});
-if(location.hash==='#super-2026')document.querySelector('#super-2026').open=true;
