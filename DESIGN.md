@@ -85,3 +85,7 @@ Panels, tables and the season selector have square corners. Circular chart marke
 - Do inspect desktop and mobile output after layout or typography changes.
 - Don't introduce serif type, decorative heading breaks, oversized hero areas or ornamental shadows.
 - Don't communicate meaning through color alone or hide source limitations behind visual polish.
+
+## October 18 prominence update
+
+The opening now emphasizes the 19-game current losing streak through October 17, 2026, and links the last victory. The original 1–38 metric remains in the summary row. A dedicated VICTORY GRAPH precedes scoring analysis: sixteen columns on desktop, two rows of eight on mobile, exact win labels, canceled 2020 and incomplete 2026. The original wins/losses comparison is retained. The streak decomposition explicitly excludes the canceled Knox game.

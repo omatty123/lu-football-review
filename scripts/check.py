@@ -24,3 +24,13 @@ assert sum(x['pa']-x['pf']>50 for x in g if x['year']==2025)==5
 assert sum(x['wins'] for x in s if x['year']<2026)==18
 assert sum(x['losses'] for x in s if x['year']<2026)==119
 print('PASS: 143 game results, 16 season rows, records, scoring totals, averages, and major report claims.')
+
+streak=0
+for game in reversed(g):
+ if game['outcome']!='L':break
+ streak+=1
+assert streak==19
+assert g[-streak-1]['year']==2024 and g[-streak-1]['opponent']=='Beloit College'
+html=(r/'index.html').read_text()
+assert html.index('id="victories"')<html.index('id="trend"')
+print('PASS: 19-game current losing streak and prominent victory graph placement.')

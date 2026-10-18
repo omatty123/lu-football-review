@@ -42,3 +42,5 @@ let bars='<svg viewBox="0 0 1100 260" xmlns="http://www.w3.org/2000/svg"><title>
 const baseY=225, unit=17;
 SEASONS.forEach((s,i)=>{const cx=x(i),bw=38;if(s.games){bars+=`<rect x="${cx-bw/2}" y="${baseY-s.games*unit}" width="${bw}" height="${s.losses*unit}" fill="#dbada6"/><rect x="${cx-bw/2}" y="${baseY-s.wins*unit}" width="${bw}" height="${s.wins*unit}" fill="#08658e"/><text class="value" x="${cx}" y="${baseY-s.games*unit-12}" text-anchor="middle">${s.wins}–${s.losses}</text>`}else bars+=`<text x="${cx}" y="155" text-anchor="middle" transform="rotate(-90 ${cx} 155)">Canceled</text>`;bars+=`<text x="${cx}" y="250" text-anchor="middle">${String(s.year).slice(2)}${s.year===2026?'*':''}</text>`});
 $('#record-chart').innerHTML=bars+'</svg>';
+
+$('#victory-graph').innerHTML=SEASONS.map(s=>`<div class="victoryyear"><div class="victorycolumn">${s.games?`<strong>${s.wins}</strong><div class="victorybar" style="height:${s.wins*30}px" aria-hidden="true"></div>`:'<span class="no-season">No<br>season</span>'}</div><span class="victorylabel">${s.year}${s.year===2026?'*':''}</span></div>`).join('');
