@@ -98,3 +98,6 @@ A 2025 all-ten-team comparison follows SUPER LOSSES. A centered-zero horizontal 
 
 ## Losses take priority
 The key metrics section leads with119 losses in137 games,19 consecutive losses,9of9 lost in2025 and−48.8 scoring margin, each with an explicit period. The conference section now precedes SUPER LOSSES and leads with a shared-scale losses chart and full losses/wins/games/loss-rate table. Copy explicitly identifies the nine-loss tie with Beloit and LU’s uniquely100% loss rate. Margin and SUPER LOSSES remain secondary context.
+
+### Full-period conference comparison — 18 October 2026
+The primary comparison now covers 2011–2025 for all ten 2025 members, with a second membership-period table for all 13 historical members. Keep the distinction explicit: Beloit has the most losses (120); Lawrence has the highest loss rate (86.9%) and worst scoring margin (−23.6). The section follows the victory graph and precedes the retained 2025 comparison. The key-metrics introduction links to it. Mobile tables scroll within labeled regions. Sans-serif typography and natural heading wraps remain intact.

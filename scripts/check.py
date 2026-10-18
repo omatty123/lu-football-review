@@ -66,3 +66,37 @@ assert html.index('id="conference"')<html.index('id="super-losses"')
 assert 'KEY METRICS OF LAWRENCE FOOTBALL FAILURE' in html
 assert round(119/137*100,1)==86.9
 print('PASS: straight-loss comparison, nine-loss tie, 100% LU loss rate, historical loss rate.')
+
+# Full-period conference comparison: every season and game reconciles.
+historical = json.loads((r / 'data/mwc-2011-2025.json').read_text())
+historical_seasons = json.loads((r / 'data/mwc-2011-2025-seasons.json').read_text())
+historical_games = json.loads((r / 'data/mwc-2011-2025-game-audit.json').read_text())
+membership = json.loads((r / 'data/mwc-membership-2011-2025.json').read_text())
+assert len(historical) == 10 and len(membership) == 13
+assert len(historical_seasons) == len(historical_games) == 160
+assert len({(r['team'], r['year']) for r in historical_seasons}) == 160
+for row in historical_seasons:
+    game_row = next(g for g in historical_games if (g['team'],g['year']) == (row['team'],row['year']))
+    games_ = game_row['games']
+    assert row['games'] == len(games_) == row['wins'] + row['losses']
+    for key in ['pf','pa']:
+        assert row[key] == sum(g[key] for g in games_)
+    assert row['wins'] == sum(g['outcome'] == 'W' for g in games_)
+    assert all((g['pf'] > g['pa']) == (g['outcome'] == 'W') for g in games_)
+for table_, member_only in [(historical,False),(membership,True)]:
+    for row in table_:
+        years_ = [s for s in historical_seasons if s['team']==row['team'] and (not member_only or s['membership'])]
+        for key in ['wins','losses','games','pf','pa']:
+            assert row[key] == sum(s[key] for s in years_)
+        assert row['loss_rate'] == round(100*row['losses']/row['games'],1)
+        assert row['margin'] == round((row['pf']-row['pa'])/row['games'],1)
+        if not member_only:
+            assert sorted(s['year'] for s in years_) == [y for y in range(2011,2026) if y != 2020]
+    assert max(table_,key=lambda r:r['losses'])['team'] == 'Beloit'
+    assert max(table_,key=lambda r:r['loss_rate'])['team'] == 'Lawrence'
+    assert min(table_,key=lambda r:r['margin'])['team'] == 'Lawrence'
+lu_history = next(r for r in historical if r['team']=='Lawrence')
+assert (lu_history['losses'],lu_history['games'],lu_history['pf'],lu_history['pa']) == (119,137,2151,5386)
+assert html.index('id="conference-history"') < html.index('id="conference"')
+assert 'Beloit has more total losses: 120 to Lawrence’s 119' in html
+print('PASS: 160 team-seasons reconciled to game scores; all current and former members; historical rankings and placement.')
