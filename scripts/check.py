@@ -34,3 +34,12 @@ assert g[-streak-1]['year']==2024 and g[-streak-1]['opponent']=='Beloit College'
 html=(r/'index.html').read_text()
 assert html.index('id="victories"')<html.index('id="trend"')
 print('PASS: 19-game current losing streak and prominent victory graph placement.')
+
+sl=json.loads((r/'data/super-losses.json').read_text())
+assert len(sl)==15 and len({x['source'] for x in sl})==15
+assert all(x['opponent_touchdowns']>x['lu_first_downs'] and x['opponent_points']>x['lu_points'] for x in sl)
+assert sum(x['year']==2025 for x in sl)==5
+chicago=next(x for x in sl if x['year']==2025 and x['opponent']=='Chicago')
+assert (chicago['opponent_touchdowns'],chicago['lu_first_downs'])==(9,1)
+assert html.index('id="victories"')<html.index('id="super-losses"')<html.index('id="trend"')
+print('PASS: 15 super losses, 2025 count, Chicago 9-to-1, and prominent placement.')

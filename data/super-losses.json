@@ -1,0 +1,152 @@
+[
+  {
+    "year": 2012,
+    "date": "Oct 13, 2012",
+    "opponent": "St. Norbert",
+    "lu_first_downs": 3,
+    "opponent_touchdowns": 11,
+    "lu_points": 7,
+    "opponent_points": 79,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2012/st-norbert/boxscore/334"
+  },
+  {
+    "year": 2015,
+    "date": "Sep 5, 2015",
+    "opponent": "Rockford",
+    "lu_first_downs": 5,
+    "opponent_touchdowns": 7,
+    "lu_points": 17,
+    "opponent_points": 52,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2015/rockford/boxscore/359"
+  },
+  {
+    "year": 2018,
+    "date": "Oct 20, 2018",
+    "opponent": "St. Norbert",
+    "lu_first_downs": 4,
+    "opponent_touchdowns": 6,
+    "lu_points": 0,
+    "opponent_points": 46,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2018/st-norbert/boxscore/395"
+  },
+  {
+    "year": 2019,
+    "date": "Oct 26, 2019",
+    "opponent": "St. Norbert",
+    "lu_first_downs": 2,
+    "opponent_touchdowns": 5,
+    "lu_points": 0,
+    "opponent_points": 41,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2019/st-norbert/boxscore/3001"
+  },
+  {
+    "year": 2021,
+    "date": "Nov 6, 2021",
+    "opponent": "Chicago",
+    "lu_first_downs": 2,
+    "opponent_touchdowns": 9,
+    "lu_points": 0,
+    "opponent_points": 66,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2021/university-of-chicago/boxscore/3703"
+  },
+  {
+    "year": 2022,
+    "date": "Sep 10, 2022",
+    "opponent": "Lake Forest",
+    "lu_first_downs": 2,
+    "opponent_touchdowns": 7,
+    "lu_points": 0,
+    "opponent_points": 55,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2022/lake-forest-college/boxscore/4099"
+  },
+  {
+    "year": 2022,
+    "date": "Oct 22, 2022",
+    "opponent": "Beloit",
+    "lu_first_downs": 6,
+    "opponent_touchdowns": 8,
+    "lu_points": 0,
+    "opponent_points": 56,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2022/beloit-college/boxscore/4105"
+  },
+  {
+    "year": 2022,
+    "date": "Nov 5, 2022",
+    "opponent": "Chicago",
+    "lu_first_downs": 3,
+    "opponent_touchdowns": 8,
+    "lu_points": 0,
+    "opponent_points": 60,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2022/university-of-chicago/boxscore/4107"
+  },
+  {
+    "year": 2022,
+    "date": "Nov 12, 2022",
+    "opponent": "Ripon",
+    "lu_first_downs": 3,
+    "opponent_touchdowns": 12,
+    "lu_points": 0,
+    "opponent_points": 82,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2022/ripon-college/boxscore/4108"
+  },
+  {
+    "year": 2024,
+    "date": "Oct 26, 2024",
+    "opponent": "Illinois",
+    "lu_first_downs": 11,
+    "opponent_touchdowns": 12,
+    "lu_points": 0,
+    "opponent_points": 84,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2024/illinois-college/boxscore/4981"
+  },
+  {
+    "year": 2025,
+    "date": "Sep 13, 2025",
+    "opponent": "Monmouth",
+    "lu_first_downs": 7,
+    "opponent_touchdowns": 10,
+    "lu_points": 7,
+    "opponent_points": 78,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2025/monmouth-college/boxscore/5418"
+  },
+  {
+    "year": 2025,
+    "date": "Oct 4, 2025",
+    "opponent": "Illinois",
+    "lu_first_downs": 6,
+    "opponent_touchdowns": 8,
+    "lu_points": 0,
+    "opponent_points": 59,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2025/illinois-college/boxscore/5420"
+  },
+  {
+    "year": 2025,
+    "date": "Oct 11, 2025",
+    "opponent": "Chicago",
+    "lu_first_downs": 1,
+    "opponent_touchdowns": 9,
+    "lu_points": 0,
+    "opponent_points": 66,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2025/university-of-chicago/boxscore/5421"
+  },
+  {
+    "year": 2025,
+    "date": "Nov 1, 2025",
+    "opponent": "Lake Forest",
+    "lu_first_downs": 4,
+    "opponent_touchdowns": 10,
+    "lu_points": 0,
+    "opponent_points": 72,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2025/lake-forest-college/boxscore/5424"
+  },
+  {
+    "year": 2025,
+    "date": "Nov 8, 2025",
+    "opponent": "Grinnell",
+    "lu_first_downs": 4,
+    "opponent_touchdowns": 8,
+    "lu_points": 6,
+    "opponent_points": 63,
+    "source": "https://vikings.lawrence.edu/sports/football/stats/2025/grinnell-college/boxscore/5425"
+  }
+]

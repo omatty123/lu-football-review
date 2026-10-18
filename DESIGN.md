@@ -89,3 +89,6 @@ Panels, tables and the season selector have square corners. Circular chart marke
 ## October 18 prominence update
 
 The opening now emphasizes the 19-game current losing streak through October 17, 2026, and links the last victory. The original 1–38 metric remains in the summary row. A dedicated VICTORY GRAPH precedes scoring analysis: sixteen columns on desktop, two rows of eight on mobile, exact win labels, canceled 2020 and incomplete 2026. The original wins/losses comparison is retained. The streak decomposition explicitly excludes the canceled Knox game.
+
+## Super losses
+The Super losses section follows the victory graph and precedes scoring analysis. A dark navy feature prominently compares Chicago’s 9 touchdowns to Lawrence’s ONE first down. The complete 15-row source-linked table highlights the Chicago row. Definitions exclude equal counts, with the two equality cases separately identified. Navigation and summary link directly to this section. Mobile retains readable numbers and scrolls the full table horizontally.
