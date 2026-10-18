@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Beloit",
+    "wins": 14,
+    "losses": 86,
+    "games": 100,
+    "pf": 1603,
+    "pa": 3952,
+    "super_losses": 16,
+    "loss_rate": 86.0,
+    "super_rate": 16.0,
+    "margin": -23.5
+  },
+  {
+    "team": "Lawrence",
+    "wins": 12,
+    "losses": 85,
+    "games": 97,
+    "pf": 1357,
+    "pa": 3824,
+    "super_losses": 14,
+    "loss_rate": 87.6,
+    "super_rate": 14.4,
+    "margin": -25.4
+  },
+  {
+    "team": "Grinnell",
+    "wins": 15,
+    "losses": 76,
+    "games": 91,
+    "pf": 1200,
+    "pa": 3726,
+    "super_losses": 11,
+    "loss_rate": 83.5,
+    "super_rate": 12.1,
+    "margin": -27.8
+  },
+  {
+    "team": "Knox",
+    "wins": 31,
+    "losses": 66,
+    "games": 97,
+    "pf": 1803,
+    "pa": 3065,
+    "super_losses": 3,
+    "loss_rate": 68.0,
+    "super_rate": 3.1,
+    "margin": -13.0
+  },
+  {
+    "team": "Cornell",
+    "wins": 45,
+    "losses": 54,
+    "games": 99,
+    "pf": 2278,
+    "pa": 3246,
+    "super_losses": 2,
+    "loss_rate": 54.5,
+    "super_rate": 2.0,
+    "margin": -9.8
+  },
+  {
+    "team": "Ripon",
+    "wins": 54,
+    "losses": 45,
+    "games": 99,
+    "pf": 2658,
+    "pa": 2288,
+    "super_losses": 3,
+    "loss_rate": 45.5,
+    "super_rate": 3.0,
+    "margin": 3.7
+  },
+  {
+    "team": "Chicago",
+    "wins": 63,
+    "losses": 36,
+    "games": 99,
+    "pf": 3253,
+    "pa": 1843,
+    "super_losses": 0,
+    "loss_rate": 36.4,
+    "super_rate": 0.0,
+    "margin": 14.2
+  },
+  {
+    "team": "Illinois College",
+    "wins": 61,
+    "losses": 39,
+    "games": 100,
+    "pf": 3498,
+    "pa": 2507,
+    "super_losses": 0,
+    "loss_rate": 39.0,
+    "super_rate": 0.0,
+    "margin": 9.9
+  },
+  {
+    "team": "Lake Forest",
+    "wins": 76,
+    "losses": 27,
+    "games": 103,
+    "pf": 3639,
+    "pa": 1894,
+    "super_losses": 1,
+    "loss_rate": 26.2,
+    "super_rate": 1.0,
+    "margin": 16.9
+  },
+  {
+    "team": "Monmouth",
+    "wins": 85,
+    "losses": 21,
+    "games": 106,
+    "pf": 4013,
+    "pa": 1481,
+    "super_losses": 2,
+    "loss_rate": 19.8,
+    "super_rate": 1.9,
+    "margin": 23.9
+  }
+]

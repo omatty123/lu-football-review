@@ -125,6 +125,25 @@ home=(r/'index.html').read_text()
 assert home.count('class="chart-row lawrence"')==3
 assert all(f'id="{x}"' in home for x in ['loss-rate','super-loss-rate','scoring-margin','victories','share-button'])
 assert home.index('id="loss-rate"')<home.index('id="victories"')
-assert 'Second-highest · 15 of 137 games' in home
+assert 'Second-highest · 14 of 97 games' in home
 assert 'Audit pending' not in home and 'full-report.html' in home
 print('PASS: 761 defeats, 54 SUPER LOSSES; all rates use completed games; three homepage graphs highlight Lawrence.')
+
+last10=json.loads((r/'data/mwc-last-10.json').read_text())
+years10={2015,2016,2017,2018,2019,2021,2022,2023,2024,2025}
+assert len(last10)==10
+for row in last10:
+ selected=[x for x in historical_seasons if x['team']==row['team'] and x['year'] in years10]
+ assert len(selected)==10
+ for key in ['wins','losses','games','pf','pa']:assert row[key]==sum(x[key] for x in selected)
+ assert row['super_losses']==sum(x['superLoss'] for x in super_audit if x['team']==row['team'] and x['year'] in years10)
+ assert row['loss_rate']==round(100*row['losses']/row['games'],1)
+ assert row['super_rate']==round(100*row['super_losses']/row['games'],1)
+ assert row['margin']==round((row['pf']-row['pa'])/row['games'],1)
+lu10=next(x for x in last10 if x['team']=='Lawrence')
+assert (lu10['wins'],lu10['losses'],lu10['games'],lu10['super_losses'],lu10['margin'])==(12,85,97,14,-25.4)
+assert min(last10,key=lambda x:x['margin'])['team']=='Grinnell'
+assert max(last10,key=lambda x:x['loss_rate'])['team']=='Lawrence'
+assert home.count('class="victory-year"')==10
+assert 'Ten seasons. Twelve wins.' in home and 'Second-worst · Grinnell is worst at −27.8' in home
+print('PASS: last ten completed played seasons; all graphs, victory bars, and rankings reconciled.')
