@@ -31,7 +31,7 @@ for game in reversed(g):
  streak+=1
 assert streak==19
 assert g[-streak-1]['year']==2024 and g[-streak-1]['opponent']=='Beloit College'
-html=(r/'index.html').read_text()
+html=(r/'full-report.html').read_text()
 assert html.index('id="victories"')<html.index('id="trend"')
 print('PASS: 19-game current losing streak and prominent victory graph placement.')
 
@@ -100,3 +100,31 @@ assert (lu_history['losses'],lu_history['games'],lu_history['pf'],lu_history['pa
 assert html.index('id="conference-history"') < html.index('id="conference"')
 assert 'Beloit has more total losses: 120 to Lawrence’s 119' in html
 print('PASS: 160 team-seasons reconciled to game scores; all current and former members; historical rankings and placement.')
+
+from collections import Counter
+super_audit=json.loads((r/'data/mwc-super-audit-2011-2025.json').read_text())
+super_rates=json.loads((r/'data/mwc-super-rates-2011-2025.json').read_text())
+assert len(super_audit)==761 and sum(x['superLoss'] for x in super_audit)==54
+assert len(super_rates)==10
+for row in super_rates:
+    observed=[x for x in super_audit if x['team']==row['team']]
+    reference=[g for s in historical_games if s['team']==row['team'] for g in s['games'] if g['outcome']=='L']
+    assert len(observed)==row['audited_losses']==row['losses']==len(reference)
+    assert Counter((x['pf'],x['pa']) for x in observed)==Counter((x['pf'],x['pa']) for x in reference)
+    assert row['super_losses']==sum(x['superLoss'] for x in observed)
+    assert row['super_rate']==round(row['super_losses']/row['games']*100,1)
+    assert row['games']==next(x['games'] for x in historical if x['team']==row['team'])
+    for x in observed:
+        assert x['superLoss']==(x['opponentTDs']>x['firstDowns'])
+        assert x['pf']<x['pa'] and x['opponentTDs']*6<=x['pa'] and x['firstDowns']>=0
+        assert x['source'].startswith('https://')
+assert next(x for x in super_rates if x['team']=='Lawrence')['super_losses']==15
+assert next(x for x in super_rates if x['team']=='Lawrence')['super_rate']==10.9
+assert max(super_rates,key=lambda x:x['super_rate'])['team']=='Beloit'
+home=(r/'index.html').read_text()
+assert home.count('class="chart-row lawrence"')==3
+assert all(f'id="{x}"' in home for x in ['loss-rate','super-loss-rate','scoring-margin','victories','share-button'])
+assert home.index('id="loss-rate"')<home.index('id="victories"')
+assert 'Second-highest · 15 of 137 games' in home
+assert 'Audit pending' not in home and 'full-report.html' in home
+print('PASS: 761 defeats, 54 SUPER LOSSES; all rates use completed games; three homepage graphs highlight Lawrence.')

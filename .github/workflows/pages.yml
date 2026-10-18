@@ -25,11 +25,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - run: node --check app.js && node --check data.js
+      - run: node --check app.js && node --check data.js && node --check story.js
       - uses: actions/configure-pages@v5
       - run: |
           mkdir -p _site
-          cp index.html style.css fonts.css app.js data.js _site/
+          cp index.html full-report.html style.css story.css fonts.css app.js story.js data.js _site/
           cp -r assets data _site/
       - uses: actions/upload-pages-artifact@v3
         with:
