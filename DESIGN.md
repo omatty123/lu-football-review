@@ -112,3 +112,6 @@ The homepage now uses 2015–2019 and 2021–2025 consistently for all three pee
 
 ### Cost-per-win estimate — 18 October 2026
 A compact highlighted block directly below the opening states “About $354,000 per win.” Its visible label distinguishes the estimate from actual historical spending. The adjacent calculation uses $424,741 from the 2024 EADA filing × ten played seasons ÷ twelve wins, with the official source link. Constant spending, exclusion of 2020, and gross-expense versus net-subsidy scope are explicit.
+
+### Persistent sharing — 18 October 2026
+The Share icon and label remain fixed at the lower-right viewport edge on both the concise homepage and full report. Use a high-contrast 48px minimum control, mobile safe-area spacing, and a copy fallback positioned above it. Footer clearance keeps end-of-page content reachable. Sharing still requires an explicit click.
