@@ -1,0 +1,76 @@
+{
+  "through": "2026-10-17",
+  "games": [
+    {
+      "date": "Sep 5 (Sat) 11:30 AM",
+      "opponent": "Luther College",
+      "luFirstDowns": 9,
+      "opponentTDs": 4,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/luther-college/boxscore/6019",
+        "Recap": "https://vikings.lawrence.edu/news/2026/9/5/football-vikings-fall-to-luther-in-season-opener.aspx",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/luther-college/74"
+      }
+    },
+    {
+      "date": "Sep 12 (Sat) 12:00 PM",
+      "opponent": "Buena Vista University",
+      "luFirstDowns": 12,
+      "opponentTDs": 3,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/buena-vista-university/boxscore/6020",
+        "Recap": "https://vikings.lawrence.edu/news/2026/9/13/football-vikings-take-halftime-lead-before-falling-to-buena-vista.aspx",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/buena-vista-university/158"
+      }
+    },
+    {
+      "date": "Sep 19 (Sat) 1:00 PM",
+      "opponent": "Illinois College",
+      "luFirstDowns": 9,
+      "opponentTDs": 7,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/illinois-college/boxscore/6021",
+        "Recap": "https://vikings.lawrence.edu/news/2026/9/20/football-vikings-sweep-saint-marys-split-saturday-matches-in-dubuque.aspx",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/illinois-college/61"
+      }
+    },
+    {
+      "date": "Oct 3 (Sat) 1:00 PM",
+      "opponent": "Lake Forest College",
+      "luFirstDowns": 11,
+      "opponentTDs": 10,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/lake-forest-college/boxscore/6022",
+        "Recap": "https://vikings.lawrence.edu/news/2026/10/3/football-gooden-perry-find-end-zone-as-vikings-battle-lake-forest.aspx",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/lake-forest-college/70"
+      }
+    },
+    {
+      "date": "Oct 10 (Sat) 12:00 PM",
+      "opponent": "Beloit College",
+      "luFirstDowns": 18,
+      "opponentTDs": 4,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/beloit-college/boxscore/6023",
+        "Recap": "https://vikings.lawrence.edu/news/2026/10/11/football-vikings-rally-after-halftime-but-fall-to-beloit.aspx",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/beloit-college/12"
+      }
+    },
+    {
+      "date": "Oct 17 (Sat) 1:00 PM",
+      "opponent": "Grinnell College",
+      "luFirstDowns": 12,
+      "opponentTDs": 3,
+      "superLoss": false,
+      "links": {
+        "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2026/grinnell-college/boxscore/6024",
+        "History": "https://vikings.lawrence.edu/sports/football/opponent-history/grinnell-college/47"
+      }
+    }
+  ]
+}
