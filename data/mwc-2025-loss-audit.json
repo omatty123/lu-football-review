@@ -1,0 +1,1246 @@
+[
+  {
+    "team": "Lawrence",
+    "date": "Sep 6 (Sat) Noon",
+    "opponent": "Martin Luther College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 33,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/martin-luther-college/boxscore/5417",
+      "Recap": "https://vikings.lawrence.edu/news/2025/9/6/football-vikings-fall-to-martin-luther-in-season-opener.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/martin-luther-college/80"
+    },
+    "firstDowns": 9,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "MLC",
+      "LU"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Lawrence",
+    "date": "Sep 13 (Sat) 1 pm",
+    "opponent": "Monmouth College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 78,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/monmouth-college/boxscore/5418",
+      "Recap": "https://vikings.lawrence.edu/news/2025/9/13/football-lawrence-drop-road-contest-to-scots.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/monmouth-college/89"
+    },
+    "firstDowns": 7,
+    "opponentTDs": 10,
+    "superLoss": true,
+    "heads": [
+      "LAW",
+      "MON"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lawrence",
+    "date": "Sep 20 (Sat) 1 pm",
+    "opponent": "Cornell College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 20,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/cornell-college/boxscore/5419",
+      "Recap": "https://vikings.lawrence.edu/news/2025/9/20/football-defense-stands-tall-in-setback-to-cornell.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/cornell-college/31"
+    },
+    "firstDowns": 11,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "CC",
+      "LAW"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Lawrence",
+    "date": "Oct 4 (Sat) 1 pm",
+    "opponent": "Illinois College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 59,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/illinois-college/boxscore/5420",
+      "Recap": "https://vikings.lawrence.edu/news/2025/10/4/football-lawrence-shut-out-at-illinois-college.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/illinois-college/61"
+    },
+    "firstDowns": 6,
+    "opponentTDs": 8,
+    "superLoss": true,
+    "heads": [
+      "LAW",
+      "ILL"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lawrence",
+    "date": "Oct 11 (Sat) 1 pm",
+    "opponent": "University of Chicago",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 66,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/university-of-chicago/boxscore/5421",
+      "Recap": "https://vikings.lawrence.edu/news/2025/10/11/football-lawrence-shut-out-by-maroons.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/university-of-chicago/24"
+    },
+    "firstDowns": 1,
+    "opponentTDs": 9,
+    "superLoss": true,
+    "heads": [
+      "LU",
+      "UC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lawrence",
+    "date": "Oct 18 (Sat) 1 pm",
+    "opponent": "Beloit College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 34,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/beloit-college/boxscore/5422",
+      "Recap": "https://vikings.lawrence.edu/news/2025/10/18/football-beloits-explosive-start-spoils-lawrence-homecoming.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/beloit-college/12"
+    },
+    "firstDowns": 14,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "BEL",
+      "LAW"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Lawrence",
+    "date": "Nov 1 (Sat) 1 pm",
+    "opponent": "Lake Forest College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 72,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/lake-forest-college/boxscore/5424",
+      "Recap": "https://vikings.lawrence.edu/news/2025/11/2/football-vikings-struggle-on-the-road-against-lake-forest.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/lake-forest-college/70"
+    },
+    "firstDowns": 4,
+    "opponentTDs": 10,
+    "superLoss": true,
+    "heads": [
+      "LAW",
+      "LFC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lawrence",
+    "date": "Nov 8 (Sat) 1 pm",
+    "opponent": "Grinnell College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 6,
+    "pa": 63,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/grinnell-college/boxscore/5425",
+      "Recap": "https://vikings.lawrence.edu/news/2025/11/9/football-defense-and-special-teams-shows-growth-in-viking-roads-loss-to-pioneers.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/grinnell-college/47"
+    },
+    "firstDowns": 4,
+    "opponentTDs": 8,
+    "superLoss": true,
+    "heads": [
+      "LAW",
+      "GRN"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lawrence",
+    "date": "Nov 15 (Sat) Noon",
+    "opponent": "Ripon College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 48,
+    "links": {
+      "Box Score": "https://vikings.lawrence.edu/sports/football/stats/2025/ripon-college/boxscore/5426",
+      "Recap": "https://vikings.lawrence.edu/news/2025/11/16/football-lawrence-and-ripon-battle-in-season-finale.aspx",
+      "History": "https://vikings.lawrence.edu/sports/football/opponent-history/ripon-college/108"
+    },
+    "firstDowns": 13,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "RIPON",
+      "LAWRENCE"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Beloit",
+    "date": "Sep 6 (Sat) 1:00 PM",
+    "opponent": "Rockford University",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 15,
+    "pa": 19,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/rockford-university/boxscore/4489",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/9/6/football-shows-fight-in-narrow-loss-to-rockford.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/rockford-university/58"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "BEL",
+      "RFD"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Beloit",
+    "date": "Sep 13 (Sat) 1:00 PM",
+    "opponent": "Grinnell College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 24,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/grinnell-college/boxscore/4490",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/9/13/football-blanked-by-pioneers.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/grinnell-college/34"
+    },
+    "firstDowns": 6,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "BEL",
+      "GRN"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Beloit",
+    "date": "Sep 20 (Sat) 6:00 PM",
+    "opponent": "Knox College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 16,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/knox-college/boxscore/4491",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/9/20/football-battles-hard-in-narrow-loss-to-prairie-fire.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/knox-college/36"
+    },
+    "firstDowns": 12,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "KNO",
+      "BEL"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Beloit",
+    "date": "Oct 4 (Sat) 1:00 PM",
+    "opponent": "Cornell College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 19,
+    "pa": 26,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/cornell-college/boxscore/4492",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/10/4/football-fights-hard-falls-short-against-cornell-in-mwc-showdown.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/cornell-college/37"
+    },
+    "firstDowns": 16,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "COR",
+      "BEL"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Beloit",
+    "date": "Oct 11 (Sat) 1:00 PM",
+    "opponent": "Lake Forest College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 59,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/lake-forest-college/boxscore/4493",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/10/11/football-faces-a-challenging-foresters-squad.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/lake-forest-college/51"
+    },
+    "firstDowns": 6,
+    "opponentTDs": 8,
+    "superLoss": true,
+    "heads": [
+      "BEL",
+      "LFC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Beloit",
+    "date": "Oct 25 (Sat) 1:00 PM",
+    "opponent": "Monmouth College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 72,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/monmouth-college/boxscore/4495",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/10/25/football-falls-to-an-undefeated-monmouth-squad.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/monmouth-college/48"
+    },
+    "firstDowns": 3,
+    "opponentTDs": 10,
+    "superLoss": true,
+    "heads": [
+      "MON",
+      "BEL"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Beloit",
+    "date": "Nov 1 (Sat) 1:00 PM",
+    "opponent": "Ripon College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 49,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/ripon-college/boxscore/4496",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/11/1/football-falls-to-ripon-on-the-road.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/ripon-college/40"
+    },
+    "firstDowns": 7,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "BEL",
+      "RIP"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Beloit",
+    "date": "Nov 8 (Sat) 1:00 PM",
+    "opponent": "University of Chicago",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 40,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/university-of-chicago/boxscore/4497",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/11/8/football-rainy-conditions-stall-buccaneers-against-maroons.aspx",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/university-of-chicago/41"
+    },
+    "firstDowns": 7,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "CHI",
+      "BEL"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Beloit",
+    "date": "Nov 15 (Sat) 12:00 PM",
+    "opponent": "Illinois College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 38,
+    "links": {
+      "Box Score": "https://beloitcollegeathletics.com/sports/football/stats/2025/illinois-college/boxscore/4498",
+      "Recap": "https://beloitcollegeathletics.com/news/2025/11/15/football-falls-to-illinois-college-on-senior-day.aspx",
+      "Gallery": "https://beloitcollegeathletics.com/galleries?gallery=86",
+      "History": "https://beloitcollegeathletics.com/sports/football/opponent-history/illinois-college/38"
+    },
+    "firstDowns": 4,
+    "opponentTDs": 5,
+    "superLoss": true,
+    "heads": [
+      "IC",
+      "BEL"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Knox",
+    "date": "Sep 6 (Sat) 6:00 PM",
+    "opponent": "Eureka College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 13,
+    "pa": 14,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/eureka-college/boxscore/12832",
+      "Recap": "https://prairiefire.knox.edu/news/2025/9/6/football-heartbreak-in-14-13-season-opening-defeat-250906.aspx",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/eureka-college/14"
+    },
+    "firstDowns": 16,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "KNO",
+      "EUR"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Knox",
+    "date": "Sep 13 (Sat) 1:00 PM",
+    "opponent": "Ripon College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 50,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/ripon-college/boxscore/12833",
+      "Recap": "https://prairiefire.knox.edu/news/2025/9/13/fb-ripon-spoils-home-opener-250913.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/9/13/250913_FB_Ripon_Box.pdf",
+      "Digital Program": "https://digitalprograms.learfield.com/knox/football/14158",
+      "": "https://prairiefire.knox.edu",
+      "Gallery": "https://prairiefire.knox.edu/galleries?gallery=81",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/ripon-college/1"
+    },
+    "firstDowns": 11,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "RIP",
+      "KNX"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Knox",
+    "date": "Oct 4 (Sat) 1:00 PM",
+    "opponent": "University of Chicago",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 52,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/university-of-chicago/boxscore/12835",
+      "Recap": "https://prairiefire.knox.edu/news/2025/10/4/football-stymied-by-uchicago-251004.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/10/4/251004_FB_UChicago_Box.pdf",
+      "Digital Program": "https://digitalprograms.learfield.com/knox/football/14742/1",
+      "Gallery": "https://prairiefire.knox.edu/galleries?gallery=100",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/university-of-chicago/47"
+    },
+    "firstDowns": 9,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "CHI",
+      "KNX"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Knox",
+    "date": "Oct 18 (Sat) 2:00 PM",
+    "opponent": "Illinois College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 64,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/illinois-college/boxscore/12837",
+      "Recap": "https://prairiefire.knox.edu/news/2025/10/18/football-defeated-at-illinois-college-2510108.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/10/18/251018_FB_IC_Box.pdf",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/illinois-college/7"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 9,
+    "superLoss": false,
+    "heads": [
+      "KNO",
+      "ILC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Knox",
+    "date": "Nov 1 (Sat) 1:00 PM",
+    "opponent": "Cornell College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 35,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/cornell-college/boxscore/12839",
+      "Recap": "https://prairiefire.knox.edu/news/2025/11/1/football-red-zone-difficulties-prove-fateful-in-loss-251101.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/11/1/251101_FB_Cornell_Box.pdf",
+      "Digital Program": "https://digitalprograms.learfield.com/knox/football/15326",
+      "Gallery": "https://prairiefire.knox.edu/galleries?gallery=116",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/cornell-college/3"
+    },
+    "firstDowns": 25,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "COR",
+      "KNX"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Knox",
+    "date": "Nov 8 (Sat) 12:00 PM",
+    "opponent": "Lake Forest College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 63,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/lake-forest-college/boxscore/12840",
+      "Recap": "https://prairiefire.knox.edu/news/2025/11/8/football-held-in-check-by-lake-forest-251108.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/11/8/251108_FB_Lake_Forest_Box.pdf",
+      "Digital Program": "https://digitalprograms.learfield.com/knox/football/16003",
+      "Gallery": "https://prairiefire.knox.edu/galleries?gallery=117",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/lake-forest-college/16"
+    },
+    "firstDowns": 6,
+    "opponentTDs": 9,
+    "superLoss": true,
+    "heads": [
+      "LFC",
+      "KNX"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Knox",
+    "date": "Nov 15 (Sat) 12:00 PM",
+    "opponent": "RV Monmouth College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 69,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/monmouth-college/boxscore/12841",
+      "Recap": "https://prairiefire.knox.edu/news/2025/11/15/football-season-ends-with-loss-in-turkey-bowl-251115.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/11/15/251115_FB_Monmouth_Box.pdf",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/monmouth-college/17"
+    },
+    "firstDowns": 9,
+    "opponentTDs": 10,
+    "superLoss": true,
+    "heads": [
+      "KNO",
+      "MON"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Cornell",
+    "date": "Sep 4 (Thu) 7:00 PM",
+    "opponent": "Coe",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 6,
+    "pa": 62,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/coe/boxscore/7131",
+      "Recap": "https://cornellrams.com/news/2025/9/4/football-cornell-falls-at-home-in-annual-rivaly-game-with-kohawks.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/coe/6"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 9,
+    "superLoss": false,
+    "heads": [
+      "COE",
+      "COR"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Cornell",
+    "date": "Sep 13 (Sat) 1:00 PM",
+    "opponent": "Chicago",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 12,
+    "pa": 28,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/chicago/boxscore/7135",
+      "Recap": "https://cornellrams.com/news/2025/9/13/football-jenkins-led-defense-not-enough-in-28-12-mwc-opening-loss-to-chicago.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/chicago/15"
+    },
+    "firstDowns": 15,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "CHI",
+      "COR"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Cornell",
+    "date": "Oct 11 (Sat) 2:00 PM",
+    "opponent": "Ripon",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 22,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/ripon/boxscore/7138",
+      "Recap": "https://cornellrams.com/news/2025/10/11/football-rams-take-ripon-down-to-the-wire-in-22-14-homecoming-loss.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/ripon/41"
+    },
+    "firstDowns": 15,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "RIP",
+      "COR"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Cornell",
+    "date": "Oct 18 (Sat) 2:00 PM",
+    "opponent": "Monmouth",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 3,
+    "pa": 45,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/monmouth/boxscore/7139",
+      "Recap": "https://cornellrams.com/news/2025/10/18/football-rams-shut-down-on-road-by-mwc-unbeaten-monmouth.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/monmouth/34"
+    },
+    "firstDowns": 9,
+    "opponentTDs": 6,
+    "superLoss": false,
+    "heads": [
+      "COR",
+      "MON"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Cornell",
+    "date": "Oct 25 (Sat) 1:00 PM",
+    "opponent": "Lake Forest",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 24,
+    "pa": 49,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/lake-forest/boxscore/7140",
+      "Recap": "https://cornellrams.com/news/2025/10/25/football-rams-score-3-tds-in-final-quarter-of-home-loss-to-foresters.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/lake-forest/28"
+    },
+    "firstDowns": 12,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "LFC",
+      "COR"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Cornell",
+    "date": "Nov 8 (Sat) 1:00 PM",
+    "opponent": "Illinois College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 24,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/illinois-college/boxscore/7142",
+      "Recap": "https://cornellrams.com/news/2025/11/8/football-cornell-shut-down-by-blueboys-in-home-finale.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/illinois-college/9"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "ILC",
+      "COR"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Ripon",
+    "date": "Sep 6 (Sat) 6:00 p.m.",
+    "opponent": "North Park University",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 19,
+    "pa": 35,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/north-park-university/boxscore/11381",
+      "Recap": "https://riponredhawks.com/news/2025/9/6/red-hawks-football-falls-to-vikings-in-season-opener.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/north-park-university/23"
+    },
+    "firstDowns": 19,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "NPU",
+      "RIP"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Ripon",
+    "date": "Oct 4 (Sat) 3:00 p.m.",
+    "opponent": "Lake Forest College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 38,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/lake-forest-college/boxscore/11384",
+      "Recap": "https://riponredhawks.com/news/2025/10/4/football-red-hawks-suffer-homecoming-setback-to-lake-forest.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/lake-forest-college/9"
+    },
+    "firstDowns": 14,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "LFC",
+      "RIP"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Ripon",
+    "date": "Oct 18 (Sat) 12:00 p.m.",
+    "opponent": "University of Chicago",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 12,
+    "pa": 37,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/university-of-chicago/boxscore/11386",
+      "Recap": "https://riponredhawks.com/news/2025/10/18/football-red-hawks-beaten-by-maroons.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/university-of-chicago/116"
+    },
+    "firstDowns": 4,
+    "opponentTDs": 5,
+    "superLoss": true,
+    "heads": [
+      "RIP",
+      "UC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Ripon",
+    "date": "Oct 25 (Sat) 12:00 p.m.",
+    "opponent": "Illinois College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 31,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/illinois-college/boxscore/11387",
+      "Recap": "https://riponredhawks.com/news/2025/10/25/football-red-hawks-defeated-by-blueboys.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/illinois-college/5"
+    },
+    "firstDowns": 7,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "ILC",
+      "RIP"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Ripon",
+    "date": "Nov 8 (Sat) 1:00 p.m.",
+    "opponent": "(RV) Monmouth College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 3,
+    "pa": 58,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/monmouth-college/boxscore/11389",
+      "Recap": "https://riponredhawks.com/news/2025/11/8/football-red-hawks-falter-against-fighting-scots.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/monmouth-college/1"
+    },
+    "firstDowns": 6,
+    "opponentTDs": 8,
+    "superLoss": true,
+    "heads": [
+      "RIP",
+      "MON"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Chicago",
+    "date": "Sep 6 (Sat) 12 PM CT",
+    "opponent": "#18 Carnegie Mellon",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 20,
+    "links": {
+      "Box Score": "https://athletics.uchicago.edu/sports/football/stats/2025/carnegie-mellon/boxscore/8062",
+      "Recap": "https://athletics.uchicago.edu/news/2025/9/6/football-drops-season-opener-to-18-carnegie-mellon.aspx",
+      "UChicago Game Notes": "https://athletics.uchicago.edu/documents/2025/9/3/FB-Carnegie_Mellon-9-6-25__Website_B.pdf",
+      "CMU Game Notes": "https://athletics.uchicago.edu/documents/2025/9/3/Chicago_2025.pdf",
+      "Photos (1)": "https://www.flickr.com/photos/202377176@N05/albums/72177720328955198",
+      "Photos (2)": "https://www.flickr.com/photos/202377176@N05/albums/72177720329041228/",
+      "History": "https://athletics.uchicago.edu/sports/football/opponent-history/carnegie-mellon-university/196"
+    },
+    "firstDowns": 4,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "CMU",
+      "UC"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Chicago",
+    "date": "Nov 1 (Sat) 1 PM CT",
+    "opponent": "(RV) Monmouth",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 29,
+    "links": {
+      "Box Score": "https://athletics.uchicago.edu/sports/football/stats/2025/monmouth/boxscore/8071",
+      "Recap": "https://athletics.uchicago.edu/news/2025/11/1/football-falls-to-rv-monmouth-on-senior-day.aspx",
+      "Game Notes": "https://athletics.uchicago.edu/documents/2025/10/28/FB-Monmouth-11-1-25__Website_.pdf",
+      "Photos (1)": "https://www.flickr.com/photos/202377176@N05/sets/72177720330103760/",
+      "Photos (2)": "https://www.flickr.com/photos/202377176@N05/sets/72177720330652578/",
+      "History": "https://athletics.uchicago.edu/sports/football/opponent-history/monmouth-college/247"
+    },
+    "firstDowns": 7,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "MON",
+      "UC"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Chicago",
+    "date": "Nov 15 (Sat) 12 PM CT",
+    "opponent": "Lake Forest",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 28,
+    "pa": 34,
+    "links": {
+      "Box Score": "https://athletics.uchicago.edu/sports/football/stats/2025/lake-forest/boxscore/8069",
+      "Recap": "https://athletics.uchicago.edu/news/2025/11/15/late-comeback-falls-short-as-football-drops-season-finale-at-lake-forest.aspx",
+      "Game Notes": "https://athletics.uchicago.edu/documents/2025/11/10/FB-LakeForest-11-15-25__Website_.pdf",
+      "Photos": "https://www.flickr.com/photos/202377176@N05/sets/72177720330952968/",
+      "History": "https://athletics.uchicago.edu/sports/football/opponent-history/lake-forest-college/102"
+    },
+    "firstDowns": 19,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "CHI",
+      "LFC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lake Forest",
+    "date": "Sep 6 (Sat) 6:00 (MST)",
+    "opponent": "Claremont-Mudd-Scripps Colleges",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 14,
+    "links": {
+      "Box Score": "https://goforesters.com/sports/football/stats/2025/claremont-mudd-scripps-colleges/boxscore/13006",
+      "Recap": "https://goforesters.com/news/2025/9/7/football-claremont-mudd-scripps-spoils-cactus-kickoff-for-foresters.aspx",
+      "Program": "https://goforesters.com/documents/2025/9/6/FB_9-6_CMS.pdf",
+      "Gallery": "https://goforesters.com/galleries?gallery=422",
+      "History": "https://goforesters.com/sports/football/opponent-history/claremont-mudd-scripps-colleges/230"
+    },
+    "firstDowns": 12,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "LFC",
+      "CMS"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lake Forest",
+    "date": "Sep 13 (Sat) 1:00 p.m.",
+    "opponent": "Illinois College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 25,
+    "pa": 28,
+    "links": {
+      "Box Score": "https://goforesters.com/sports/football/stats/2025/illinois-college/boxscore/13007",
+      "Recap": "https://goforesters.com/news/2025/9/13/football-foresters-erase-14-point-deficit-before-falling-in-overtime-at-illinois-college.aspx",
+      "History": "https://goforesters.com/sports/football/opponent-history/illinois-college/11"
+    },
+    "firstDowns": 18,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "LAF",
+      "ILL"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Lake Forest",
+    "date": "Sep 20 (Sat) 1:00 p.m.",
+    "opponent": "Monmouth College",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 6,
+    "pa": 49,
+    "links": {
+      "Box Score": "https://goforesters.com/sports/football/stats/2025/monmouth-college/boxscore/13008",
+      "Recap": "https://goforesters.com/news/2025/9/20/football-lake-forest-falls-to-monmouth-in-home-opener.aspx",
+      "Program": "https://goforesters.com/documents/2025/9/18/FB_9-20_Monmouth.pdf",
+      "Gallery": "https://goforesters.com/galleries?gallery=423",
+      "History": "https://goforesters.com/sports/football/opponent-history/monmouth-college/74"
+    },
+    "firstDowns": 13,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "MON",
+      "LFC"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Illinois College",
+    "date": "Sep 20 (Sat) 1:00 PM",
+    "opponent": "University of Chicago",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 21,
+    "pa": 24,
+    "links": {
+      "Box Score": "https://illinoiscollegeathletics.com/sports/football/stats/2025/university-of-chicago/boxscore/6080",
+      "Recap": "https://illinoiscollegeathletics.com/news/2025/9/20/football-chicago-holds-off-ic.aspx",
+      "History": "https://illinoiscollegeathletics.com/sports/football/opponent-history/university-of-chicago/123"
+    },
+    "firstDowns": 13,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "IC",
+      "UC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Illinois College",
+    "date": "Oct 11 (Sat) 1:00 PM",
+    "opponent": "Monmouth College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 15,
+    "pa": 48,
+    "links": {
+      "Box Score": "https://illinoiscollegeathletics.com/sports/football/stats/2025/monmouth-college/boxscore/6082",
+      "Recap": "https://illinoiscollegeathletics.com/news/2025/10/11/football-blueboys-fall-at-monmouth.aspx",
+      "History": "https://illinoiscollegeathletics.com/sports/football/opponent-history/monmouth-college/5"
+    },
+    "firstDowns": 20,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "ILC",
+      "MON"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Illinois College",
+    "date": "Nov 22 (Sat) 11:05 AM",
+    "opponent": "Aurora University",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 14,
+    "pa": 49,
+    "links": {
+      "Box Score": "https://illinoiscollegeathletics.com/sports/football/stats/2025/aurora-university/boxscore/6424",
+      "Recap": "https://illinoiscollegeathletics.com/news/2025/11/22/football-blueboys-fall-in-bowl-game.aspx",
+      "Bowl Central": "https://illinoiscollegeathletics.com/sports/2025/11/17/smiley-cookie-dot-com-lakefront-bowl.aspx",
+      "History": "https://illinoiscollegeathletics.com/sports/football/opponent-history/aurora-university/89"
+    },
+    "firstDowns": 12,
+    "opponentTDs": 6,
+    "superLoss": false,
+    "heads": [
+      "Aur",
+      "Ill"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Monmouth",
+    "date": "Sep 6 (Sat)",
+    "opponent": "#9 Wartburg College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 21,
+    "links": {
+      "Recap": "https://monmouthscots.com/news/2025/9/6/football-scots-drop-season-opener-at-no-9-wartburg.aspx",
+      "Box Score": "https://monmouthscots.com/sports/football/stats/2025/wartburg-college/boxscore/10173",
+      "History": "https://monmouthscots.com/sports/football/opponent-history/wartburg-college/5"
+    },
+    "firstDowns": 18,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "MON",
+      "WAR"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Monmouth",
+    "date": "Nov 29 (Sat)",
+    "opponent": "#7 Saint John's University  (NCAA Second Round)",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 15,
+    "pa": 49,
+    "links": {
+      "Recap": "https://monmouthscots.com/news/2025/11/29/football-season-ends-in-seoncd-round-of-ncaa-playoffs.aspx",
+      "Box Score": "https://monmouthscots.com/sports/football/stats/2025/saint-johns-university-ncaa-second-round-/boxscore/10511",
+      "History": "https://monmouthscots.com/sports/football/opponent-history/saint-johns-university/273",
+      "Football_Playoff_Game_Notes.pdf": "https://monmouthscots.com/documents/2025/11/26/Football_Playoff_Game_Notes.pdf"
+    },
+    "firstDowns": 20,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "MON",
+      "SJU"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Grinnell",
+    "date": "Oct 11 (Sat) 1:00 PM",
+    "opponent": "Knox",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 17,
+    "pa": 20,
+    "links": {
+      "Box Score": "https://prairiefire.knox.edu/sports/football/stats/2025/grinnell-college/boxscore/12836",
+      "Recap": "https://prairiefire.knox.edu/news/2025/10/11/football-squeaks-past-grinnell-in-20-17-homecoming-victory-251011.aspx",
+      "Box Score (PDF)": "https://prairiefire.knox.edu/documents/2025/10/11/251011_FB_Grinnell_Box.pdf",
+      "Digital Program": "https://digitalprograms.learfield.com/knox/football/15037",
+      "Gallery": "https://prairiefire.knox.edu/galleries?gallery=102",
+      "History": "https://prairiefire.knox.edu/sports/football/opponent-history/grinnell-college/8"
+    },
+    "firstDowns": 15,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "GRI",
+      "KNX"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Grinnell",
+    "date": "Nov 15 (Sat) 12:00 PM",
+    "opponent": "Cornell",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 17,
+    "pa": 22,
+    "links": {
+      "Box Score": "https://cornellrams.com/sports/football/stats/2025/grinnell/boxscore/7143",
+      "Recap": "https://cornellrams.com/news/2025/11/15/football-late-td-pushes-rams-past-grinnell-in-season-finale-22-17.aspx",
+      "History": "https://cornellrams.com/sports/football/opponent-history/grinnell/8"
+    },
+    "firstDowns": 11,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "COR",
+      "GRN"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Grinnell",
+    "date": "Sep 20 (Sat) 1:00 p.m.",
+    "opponent": "Ripon",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 20,
+    "pa": 30,
+    "links": {
+      "Box Score": "https://riponredhawks.com/sports/football/stats/2025/grinnell-college/boxscore/11383",
+      "Recap": "https://riponredhawks.com/news/2025/9/20/football-red-hawks-conquer-pioneers-move-to-2-0-in-mwc-play.aspx",
+      "History": "https://riponredhawks.com/sports/football/opponent-history/grinnell-college/7"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 4,
+    "superLoss": false,
+    "heads": [
+      "GRI",
+      "RIP"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Grinnell",
+    "date": "Oct 25 (Sat) 1 PM CT",
+    "opponent": "Chicago",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 38,
+    "links": {
+      "Box Score": "https://athletics.uchicago.edu/sports/football/stats/2025/grinnell/boxscore/8068",
+      "Recap": "https://athletics.uchicago.edu/news/2025/10/25/dominating-defense-and-special-teams-leads-football-to-sixth-straight-win.aspx",
+      "Game Notes": "https://athletics.uchicago.edu/documents/2025/10/20/FB-Grinnell-10-25-25__Website_.pdf",
+      "History": "https://athletics.uchicago.edu/sports/football/opponent-history/grinnell-college/169"
+    },
+    "firstDowns": 15,
+    "opponentTDs": 5,
+    "superLoss": false,
+    "heads": [
+      "CHI",
+      "GRN"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Grinnell",
+    "date": "Oct 18 (Sat) 1:00 p.m.",
+    "opponent": "Lake Forest",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 0,
+    "pa": 70,
+    "links": {
+      "Box Score": "https://goforesters.com/sports/football/stats/2025/grinnell-college/boxscore/13011",
+      "Recap": "https://goforesters.com/news/2025/10/18/football-lake-forest-scores-70-on-grinnell-posts-third-straight-shutout.aspx",
+      "Program": "https://goforesters.com/documents/2025/10/17/FB_10-18_Grinnell.pdf",
+      "History": "https://goforesters.com/sports/football/opponent-history/grinnell-college/4"
+    },
+    "firstDowns": 13,
+    "opponentTDs": 10,
+    "superLoss": false,
+    "heads": [
+      "GRN",
+      "LFC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Grinnell",
+    "date": "Nov 1 (Sat) 1:00 PM",
+    "opponent": "Illinois College",
+    "venue": "away",
+    "outcome": "L",
+    "pf": 7,
+    "pa": 14,
+    "links": {
+      "Box Score": "https://illinoiscollegeathletics.com/sports/football/stats/2025/grinnell-college/boxscore/6085",
+      "Recap": "https://illinoiscollegeathletics.com/news/2025/11/1/football-blueboys-get-past-grinnell.aspx",
+      "History": "https://illinoiscollegeathletics.com/sports/football/opponent-history/grinnell-college/1"
+    },
+    "firstDowns": 14,
+    "opponentTDs": 2,
+    "superLoss": false,
+    "heads": [
+      "GCP",
+      "ICC"
+    ],
+    "teamColumn": 0
+  },
+  {
+    "team": "Grinnell",
+    "date": "Oct 4 (Sat)",
+    "opponent": "Monmouth",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 9,
+    "pa": 49,
+    "links": {
+      "Recap": "https://monmouthscots.com/news/2025/10/4/football-scots-score-28-unanswered-to-win-49-9-at-grinnell.aspx",
+      "Box Score": "https://monmouthscots.com/sports/football/stats/2025/grinnell-college/boxscore/10176",
+      "History": "https://monmouthscots.com/sports/football/opponent-history/grinnell-college/12"
+    },
+    "firstDowns": 12,
+    "opponentTDs": 7,
+    "superLoss": false,
+    "heads": [
+      "MON",
+      "GRN"
+    ],
+    "teamColumn": 1
+  },
+  {
+    "team": "Grinnell",
+    "date": "Sep 6 (Sat) 1:00 PM",
+    "opponent": "Macalester",
+    "venue": "home",
+    "outcome": "L",
+    "pf": 15,
+    "pa": 20,
+    "links": {
+      "Box Score": "https://athletics.macalester.edu/sports/football/stats/2025/grinnell-college/boxscore/10424"
+    },
+    "firstDowns": 10,
+    "opponentTDs": 3,
+    "superLoss": false,
+    "heads": [
+      "MAC",
+      "GRN"
+    ],
+    "teamColumn": 1
+  }
+]

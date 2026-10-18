@@ -43,3 +43,19 @@ chicago=next(x for x in sl if x['year']==2025 and x['opponent']=='Chicago')
 assert (chicago['opponent_touchdowns'],chicago['lu_first_downs'])==(9,1)
 assert html.index('id="victories"')<html.index('id="super-losses"')<html.index('id="trend"')
 print('PASS: 15 super losses, 2025 count, Chicago 9-to-1, and prominent placement.')
+
+peers=json.loads((r/'data/mwc-2025.json').read_text());audit=json.loads((r/'data/mwc-2025-loss-audit.json').read_text());inventory=json.loads((r/'data/mwc-2025-games.json').read_text())
+assert len(peers)==10 and len({x['team'] for x in peers})==10 and len(audit)==55
+assert sum(x['superLoss'] for x in audit)==12
+for peer in peers:
+ games=next(x['games'] for x in inventory if x['team']==peer['team']);los=[x for x in audit if x['team']==peer['team']]
+ assert len(games)==peer['games'] and len(los)==peer['losses']
+ assert sum(x['pf'] for x in games)==peer['points_for'] and sum(x['pa'] for x in games)==peer['points_against']
+ assert sum(x['outcome']=='W' for x in games)==peer['wins']
+ assert sum(x['superLoss'] for x in los)==peer['super_losses']
+ assert all(x['superLoss']==(x['opponentTDs']>x['firstDowns']) for x in los)
+ assert abs(peer['margin_per_game']-(peer['points_for']-peer['points_against'])/peer['games'])<1e-9
+lu=next(x for x in peers if x['team']=='Lawrence')
+assert lu['super_losses']==5 and lu['wins']==0 and lu['margin_per_game']==min(x['margin_per_game'] for x in peers)
+assert 'id="share-button"' in html and 'id="conference"' in html
+print('PASS: all 10 MWC teams, 55 audited defeats, 12 SUPER LOSSES, and sharing control.')

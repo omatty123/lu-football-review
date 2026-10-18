@@ -92,3 +92,6 @@ The opening now emphasizes the 19-game current losing streak through October 17,
 
 ## Super losses
 The Super losses section follows the victory graph and precedes scoring analysis. A dark navy feature prominently compares Chicago’s 9 touchdowns to Lawrence’s ONE first down. The complete 15-row source-linked table highlights the Chicago row. Definitions exclude equal counts, with the two equality cases separately identified. Navigation and summary link directly to this section. Mobile retains readable numbers and scrolls the full table horizontally.
+
+## Conference comparison and sharing
+A 2025 all-ten-team comparison follows SUPER LOSSES. A centered-zero horizontal margin chart accompanies the complete table; Lawrence uses a pale red row. Three findings introduce the evidence, with all 12 peer SUPER LOSSES in an expandable table and explicit period/postseason caveats. The masthead Share button uses an outlined upload/share SVG and visible text. A visitor click opens native sharing where supported, otherwise copies the canonical URL; clipboard denial reveals a selectable link and announced status. The button never initiates sharing on page load.

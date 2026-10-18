@@ -1,0 +1,122 @@
+[
+  {
+    "team": "Monmouth",
+    "games": 11,
+    "wins": 9,
+    "losses": 2,
+    "points_for": 519,
+    "points_against": 113,
+    "margin_per_game": 36.90909090909091,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://monmouthscots.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Lake Forest",
+    "games": 10,
+    "wins": 7,
+    "losses": 3,
+    "points_for": 423,
+    "points_against": 143,
+    "margin_per_game": 28.0,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://goforesters.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Chicago",
+    "games": 10,
+    "wins": 7,
+    "losses": 3,
+    "points_for": 313,
+    "points_against": 135,
+    "margin_per_game": 17.8,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://athletics.uchicago.edu/sports/football/schedule/2025"
+  },
+  {
+    "team": "Illinois College",
+    "games": 11,
+    "wins": 8,
+    "losses": 3,
+    "points_for": 336,
+    "points_against": 183,
+    "margin_per_game": 13.909090909090908,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://illinoiscollegeathletics.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Ripon",
+    "games": 10,
+    "wins": 5,
+    "losses": 5,
+    "points_for": 233,
+    "points_against": 247,
+    "margin_per_game": -1.4,
+    "super_losses": 2,
+    "super_loss_rate": 0.2,
+    "source": "https://riponredhawks.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Grinnell",
+    "games": 10,
+    "wins": 2,
+    "losses": 8,
+    "points_for": 179,
+    "points_against": 269,
+    "margin_per_game": -9.0,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://pioneers.grinnell.edu/sports/football/stats/2025"
+  },
+  {
+    "team": "Cornell",
+    "games": 10,
+    "wins": 4,
+    "losses": 6,
+    "points_for": 162,
+    "points_against": 280,
+    "margin_per_game": -11.8,
+    "super_losses": 0,
+    "super_loss_rate": 0.0,
+    "source": "https://cornellrams.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Beloit",
+    "games": 10,
+    "wins": 1,
+    "losses": 9,
+    "points_for": 89,
+    "points_against": 343,
+    "margin_per_game": -25.4,
+    "super_losses": 3,
+    "super_loss_rate": 0.3,
+    "source": "https://beloitcollegeathletics.com/sports/football/schedule/2025"
+  },
+  {
+    "team": "Knox",
+    "games": 9,
+    "wins": 2,
+    "losses": 7,
+    "points_for": 84,
+    "points_against": 378,
+    "margin_per_game": -32.666666666666664,
+    "super_losses": 2,
+    "super_loss_rate": 0.2222222222222222,
+    "source": "https://prairiefire.knox.edu/sports/football/schedule/2025"
+  },
+  {
+    "team": "Lawrence",
+    "games": 9,
+    "wins": 0,
+    "losses": 9,
+    "points_for": 34,
+    "points_against": 473,
+    "margin_per_game": -48.77777777777778,
+    "super_losses": 5,
+    "super_loss_rate": 0.5555555555555556,
+    "source": "https://vikings.lawrence.edu/sports/football/schedule/2025"
+  }
+]
