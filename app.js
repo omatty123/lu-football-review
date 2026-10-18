@@ -47,7 +47,7 @@ $('#victory-graph').innerHTML=SEASONS.map(s=>`<div class="victoryyear"><div clas
 
 // Share only on the visitor's explicit click; never share cache-busting query strings.
 $('#share-button').addEventListener('click',async()=>{
- const url='https://omatty123.github.io/lu-football-review/';
+ const url='https://lu-football-review.vercel.app/';
  const status=$('#share-status');status.textContent='';$('#share-fallback').hidden=true;
  if(typeof navigator.share==='function'){
   try{await navigator.share({title:'Lawrence football: a prolonged competitive failure',url});status.textContent='Share completed.';return}catch(error){if(error.name==='AbortError')return;}

@@ -1,4 +1,4 @@
-name: Check and deploy Pages
+name: Check site and deploy Pages manually
 on:
   push:
     branches: [main]
@@ -26,14 +26,17 @@ jobs:
         with:
           node-version: '22'
       - run: node --check app.js && node --check data.js && node --check story.js
-      - uses: actions/configure-pages@v5
+      - if: github.event_name == 'workflow_dispatch'
+        uses: actions/configure-pages@v5
       - run: |
           mkdir -p _site
           cp index.html full-report.html style.css story.css fonts.css app.js story.js data.js _site/
           cp -r assets data _site/
-      - uses: actions/upload-pages-artifact@v3
+      - if: github.event_name == 'workflow_dispatch'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _site
       - name: Deploy
+        if: github.event_name == 'workflow_dispatch'
         id: deployment
         uses: actions/deploy-pages@v4

@@ -119,3 +119,5 @@ The Share icon and label remain fixed at the lower-right viewport edge on both t
 2025 SUPER LOSS callout — 18 October 2026: place “5 of 9 games were SUPER LOSSES” immediately below the opening, above the cost estimate and comparisons. Pair with the separately dated 2026 result (0 of 6 through October 17) and a six-game boxscore audit. Preserve the Chicago 9-to-1 spotlight and persistent Share control.
 
 User correction: keep the 2025 SUPER LOSS headline in the lower SUPER LOSSES section after the victory graph. Remove current-season SUPER LOSS mentions and table from the page.
+
+Hosting: Vercel production at https://lu-football-review.vercel.app/ with Git integration. Sharing and Open Graph metadata use the neutral Vercel address. GitHub Pages deployment is manual only; existing public Git history remains public.

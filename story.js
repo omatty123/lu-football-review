@@ -2,7 +2,7 @@
 const $=s=>document.querySelector(s);
 // Share only on the visitor's explicit click; never share cache-busting query strings.
 $('#share-button').addEventListener('click',async()=>{
- const url='https://omatty123.github.io/lu-football-review/';
+ const url='https://lu-football-review.vercel.app/';
  const status=$('#share-status');status.textContent='';$('#share-fallback').hidden=true;
  if(typeof navigator.share==='function'){
   try{await navigator.share({title:'Lawrence football: ten seasons, twelve wins',url});status.textContent='Share completed.';return}catch(error){if(error.name==='AbortError')return;}

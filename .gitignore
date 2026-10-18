@@ -2,3 +2,6 @@ _site/
 .impeccable/
 node_modules/
 .DS_Store
+.vercel/
+.vercel
+.env*.local
