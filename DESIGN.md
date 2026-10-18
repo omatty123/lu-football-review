@@ -95,3 +95,6 @@ The Super losses section follows the victory graph and precedes scoring analysis
 
 ## Conference comparison and sharing
 A 2025 all-ten-team comparison follows SUPER LOSSES. A centered-zero horizontal margin chart accompanies the complete table; Lawrence uses a pale red row. Three findings introduce the evidence, with all 12 peer SUPER LOSSES in an expandable table and explicit period/postseason caveats. The masthead Share button uses an outlined upload/share SVG and visible text. A visitor click opens native sharing where supported, otherwise copies the canonical URL; clipboard denial reveals a selectable link and announced status. The button never initiates sharing on page load.
+
+## Losses take priority
+The key metrics section leads with119 losses in137 games,19 consecutive losses,9of9 lost in2025 and−48.8 scoring margin, each with an explicit period. The conference section now precedes SUPER LOSSES and leads with a shared-scale losses chart and full losses/wins/games/loss-rate table. Copy explicitly identifies the nine-loss tie with Beloit and LU’s uniquely100% loss rate. Margin and SUPER LOSSES remain secondary context.

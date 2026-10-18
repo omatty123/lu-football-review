@@ -59,3 +59,10 @@ lu=next(x for x in peers if x['team']=='Lawrence')
 assert lu['super_losses']==5 and lu['wins']==0 and lu['margin_per_game']==min(x['margin_per_game'] for x in peers)
 assert 'id="share-button"' in html and 'id="conference"' in html
 print('PASS: all 10 MWC teams, 55 audited defeats, 12 SUPER LOSSES, and sharing control.')
+
+assert max(x['losses'] for x in peers)==9
+assert {x['team'] for x in peers if x['losses']==9}=={'Lawrence','Beloit'}
+assert html.index('id="conference"')<html.index('id="super-losses"')
+assert 'KEY METRICS OF LAWRENCE FOOTBALL FAILURE' in html
+assert round(119/137*100,1)==86.9
+print('PASS: straight-loss comparison, nine-loss tie, 100% LU loss rate, historical loss rate.')
