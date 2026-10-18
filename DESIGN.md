@@ -109,3 +109,6 @@ Main order: compact 18-wins/119-losses headline and dated current streak; three 
 
 ### Last ten completed played seasons — 18 October 2026
 The homepage now uses 2015–2019 and 2021–2025 consistently for all three peer graphs, totals, victory bars, and Lawrence SUPER LOSS details. The dated 2026 losing streak remains a separate current indicator. Headline: “Ten seasons. Twelve wins.” Lawrence leads loss rate (87.6%); its SUPER LOSS rate (14.4%) and margin (−25.4) rank second-worst. Expand the margin scale to ±30 to include Grinnell (−27.8). The complete 2011–2025 comparison remains in full-report.html. No historical source data is overwritten.
+
+### Cost-per-win estimate — 18 October 2026
+A compact highlighted block directly below the opening states “About $354,000 per win.” Its visible label distinguishes the estimate from actual historical spending. The adjacent calculation uses $424,741 from the 2024 EADA filing × ten played seasons ÷ twelve wins, with the official source link. Constant spending, exclusion of 2020, and gross-expense versus net-subsidy scope are explicit.
